@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://java.sun.com/xml/ns/javaee" xmlns:web="http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
+	version="2.5">
+	
+	
+	<!-- <servlet>
+		<servlet-name>abc</servlet-name>
+		<servlet-class>com.yr.servlet.LoginServlet</servlet-class>
+	</servlet>
+	
+	<servlet-mapping>
+		<servlet-name>abc</servlet-name>
+		<url-pattern>/login</url-pattern>
+	</servlet-mapping>
+	
+	
+	<filter>
+		<filter-name>aa</filter-name>
+		<filter-class>com.yr.servlet.LoginFilter</filter-class>
+	</filter>
+	
+	<filter-mapping>
+		<filter-name>aa</filter-name>
+		<url-pattern>/*</url-pattern>
+	</filter-mapping> -->
+
+</web-app>
